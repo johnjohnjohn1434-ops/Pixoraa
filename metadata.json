@@ -1,0 +1,6 @@
+{
+  "name": "Pixora",
+  "description": "Share moments, build community. A modern social media platform with interactive feeds, stories, reels, messaging, and an administrative moderation panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
